@@ -21,6 +21,10 @@ body{
   text-transform: uppercase;
 
 }
+.container #p1{
+  color: red;
+  font-weight: bold;
+}
 
 .container ul{
   padding-left: 0;
@@ -43,6 +47,7 @@ body{
   height: 100%;
   line-height: 40px;
   font-size: 18px;
+
 }
 
 .container ul li #check{
