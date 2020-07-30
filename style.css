@@ -122,3 +122,7 @@ body{
   border-radius: 10px;
 }
 
+.visual{
+  opacity: 1 !important;
+  border-radius: 10px;
+}
